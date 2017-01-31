@@ -1,0 +1,83 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala, /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala, /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala, /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala, /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala, /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala, /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala, /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala, /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home/akhil/Downloads/combinator-parsing-template/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.1[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.11.1. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.1  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_d32fdf50[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/netx.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/plugin.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/classes:/home/akhil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/akhil/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/xsbti/interface-0.13.13.jar:/tmp/sbt_ac56b8a8/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.13-sources.jar:/home/akhil/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.1.jar:/home/akhil/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.1.jar:/home/akhil/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/home/akhil/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/home/akhil/.ivy2/cache/jline/jline/jars/jline-2.11.jar[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_f5c92abf/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 16.974 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3c4c8626, interfacing (CompilerInterface) with Scala compiler version 2.11.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/netx.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/plugin.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-6-openjdk-amd64/jre/classes:/home/akhil/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/akhil/Downloads/combinator-parsing-template/target/scala-2.11/classes:/home/akhil/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/jars/scala-parser-combinators_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 19.449625444 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, curried, wait, copy$default$2, $asInstanceOf, compose, e1, productArity, equals, Evaluator, asInstanceOf, evaluate, Divide, synchronized, $isInstanceOf, andThen, Expression, tupled, canEqual, productPrefix, i, notifyAll, isInstanceOf, Sum, Minus, <init>, IntegerLiteral, apply, ==, clone, $init$, copy, toString, !=, getClass, copy$default$1, Product, e2, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	literal, accept, regex.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Including /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala by /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Including /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala by /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala, /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala, /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Syntax.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, curried, Syntax, wait, copy$default$2, $asInstanceOf, compose, e1, productArity, equals, asInstanceOf, Divide, synchronized, $isInstanceOf, andThen, Expression, tupled, canEqual, productPrefix, i, notifyAll, isInstanceOf, Sum, Minus, <init>, IntegerLiteral, apply, ==, clone, $init$, copy, toString, !=, getClass, copy$default$1, Product, e2, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/Evaluator.scala: Set(Syntax, e1, asInstanceOf, Divide, Expression, i, isInstanceOf, Sum, Minus, <init>, IntegerLiteral, Product, e2)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/akhil/Downloads/combinator-parsing-template/src/main/scala/edu/knoldus/parsing/ArithmeticParser.scala: Set(unapply, Syntax, asInstanceOf, Divide, Expression, i, isInstanceOf, Sum, Minus, <init>, IntegerLiteral, apply, ==, Product, ne)[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
